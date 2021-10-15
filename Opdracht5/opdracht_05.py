@@ -7,3 +7,4 @@ def favorite_steden(name):
 favorite_steden("Dubai, Verenigde Arabishce Emiraten.")
 favorite_steden("New York, Amerika.")
 favorite_steden("Orlando, Amerika.")
+favorite_steden("Phuket, Thailand.")
