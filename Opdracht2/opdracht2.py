@@ -5,4 +5,4 @@ print("Hello world!")
 10 * 2
 
 # semantic error
-print("Hello Alica")
+print("Hello Alica!")
