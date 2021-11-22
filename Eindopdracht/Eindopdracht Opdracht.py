@@ -1,5 +1,6 @@
-mylist = ["Amsterdam", "Dubai", "Tokyo"]
-print(mylist)
-
-Thislist=("Amsterdam", "Dubai", "Tokyo", "Londen", "Madrid", "Rome", "Sydney")
-print(Thislist[2:5]) 
+a = 333
+b = 23
+if b > a:
+  print("b is beter dan a")
+else:
+  print("b is niet beter dan a")
