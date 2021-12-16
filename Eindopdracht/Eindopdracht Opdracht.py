@@ -1,6 +1,6 @@
-a = 333
-b = 23
-if b > a:
-  print("b is beter dan a")
+answer = input("Noem een primaire kleur.").lower()
+
+if answer == "geel" or answer == "blauw" or answer == "rood":
+  print("Dat is inderdaad een primaire kleur!")
 else:
-  print("b is niet beter dan a")
+  print("Dat is geen primaire kleur, helaas...")
